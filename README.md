@@ -4,7 +4,7 @@ Collaborators: Faisal Khan & Harish Jaisawal
 
 
 🔍 Project Overview
-
+ 
 This project performs Exploratory Data Analysis (EDA) on the Paisabazaar dataset to uncover insights about consumer credit behavior. The analysis focuses on trends in credit scores, income, loan types, age groups, and other financial variables, enabling data-driven decision-making in the fintech space.
 
 
