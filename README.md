@@ -1,4 +1,4 @@
-📊 Paisabazaar Project – Exploratory Data Analysis (EDA)s
+📊 Paisabazaar Project – Exploratory Data Analysis (EDA)
  
 Collaborators: Faisal Khan & Harish Jaisawal 
 
