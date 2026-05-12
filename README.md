@@ -26,7 +26,7 @@ Includes consumer credit profiles with variables such as Credit Score, Annual In
 
 📁 Repository Structure
 Paisabazaar_EDA/
-│
+
 
 ├── Paisabazaar_EDA.ipynb   # Jupyter Notebook with all analysis
 
